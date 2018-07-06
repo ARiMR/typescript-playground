@@ -1,0 +1,10 @@
+"use strict";
+var x = 42;
+// x = undefined;
+// x = null;
+var y;
+// y = undefined;
+y = null;
+var z;
+z = undefined;
+z = null;
